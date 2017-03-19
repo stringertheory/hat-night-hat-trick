@@ -1,0 +1,3 @@
+nhl-data/*.json
+nhl-app.sqlite.sqlite
+nhl-data.tgz
