@@ -1,0 +1,1008 @@
+season,date,home_team,away_team,hat_trick,scorer,scorer_team,goals,hat_night
+20142015,2014-10-08,Boston Bruins,Philadelphia Flyers,False,,,,False
+20142015,2014-10-09,Pittsburgh Penguins,Anaheim Ducks,True,Corey Perry,Anaheim Ducks,3,False
+20142015,2014-10-09,Detroit Red Wings,Boston Bruins,False,,,,False
+20142015,2014-10-09,Nashville Predators,Ottawa Senators,False,,,,False
+20142015,2014-10-09,Minnesota Wild,Colorado Avalanche,False,,,,False
+20142015,2014-10-11,Boston Bruins,Washington Capitals,False,,,,False
+20142015,2014-10-11,Detroit Red Wings,Anaheim Ducks,False,,,,False
+20142015,2014-10-11,Nashville Predators,Dallas Stars,False,,,,False
+20142015,2014-10-11,Chicago Blackhawks,Buffalo Sabres,False,,,,False
+20142015,2014-10-13,Boston Bruins,Colorado Avalanche,False,,,,False
+20142015,2014-10-14,Nashville Predators,Calgary Flames,False,,,,False
+20142015,2014-10-15,Chicago Blackhawks,Calgary Flames,False,,,,False
+20142015,2014-10-15,Detroit Red Wings,Boston Bruins,False,,,,False
+20142015,2014-10-16,Pittsburgh Penguins,Dallas Stars,False,,,,False
+20142015,2014-10-18,Detroit Red Wings,Toronto Maple Leafs,False,,,,False
+20142015,2014-10-18,Pittsburgh Penguins,New York Islanders,False,,,,False
+20142015,2014-10-18,Chicago Blackhawks,Nashville Predators,False,,,,False
+20142015,2014-10-21,Boston Bruins,San Jose Sharks,False,,,,False
+20142015,2014-10-21,Nashville Predators,Arizona Coyotes,False,,,,False
+20142015,2014-10-21,Chicago Blackhawks,Philadelphia Flyers,False,,,,False
+20142015,2014-10-22,Pittsburgh Penguins,Philadelphia Flyers,False,,,,False
+20142015,2014-10-23,Boston Bruins,New York Islanders,False,,,,False
+20142015,2014-10-23,Detroit Red Wings,Pittsburgh Penguins,False,,,,False
+20142015,2014-10-23,Nashville Predators,Chicago Blackhawks,True,James Neal,Nashville Predators,3,False
+20142015,2014-10-23,Minnesota Wild,Arizona Coyotes,False,,,,False
+20142015,2014-10-25,Nashville Predators,Pittsburgh Penguins,False,,,,False
+20142015,2014-10-25,Minnesota Wild,Tampa Bay Lightning,False,,,,True
+20142015,2014-10-26,Chicago Blackhawks,Ottawa Senators,False,,,,False
+20142015,2014-10-28,Boston Bruins,Minnesota Wild,False,,,,False
+20142015,2014-10-28,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20142015,2014-10-28,Chicago Blackhawks,Anaheim Ducks,False,,,,False
+20142015,2014-10-30,Pittsburgh Penguins,Los Angeles Kings,False,,,,False
+20142015,2014-10-30,Minnesota Wild,San Jose Sharks,False,,,,False
+20142015,2014-10-31,Detroit Red Wings,Los Angeles Kings,False,,,,False
+20142015,2014-11-01,Boston Bruins,Ottawa Senators,False,,,,False
+20142015,2014-11-01,Pittsburgh Penguins,Buffalo Sabres,False,,,,False
+20142015,2014-11-01,Minnesota Wild,Dallas Stars,False,,,,False
+20142015,2014-11-02,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20142015,2014-11-04,Boston Bruins,Florida Panthers,False,,,,False
+20142015,2014-11-04,Minnesota Wild,Pittsburgh Penguins,False,,,,False
+20142015,2014-11-06,Boston Bruins,Edmonton Oilers,False,,,,False
+20142015,2014-11-07,Detroit Red Wings,New Jersey Devils,False,,,,False
+20142015,2014-11-07,Chicago Blackhawks,Washington Capitals,False,,,,False
+20142015,2014-11-09,Detroit Red Wings,Tampa Bay Lightning,False,,,,False
+20142015,2014-11-09,Chicago Blackhawks,San Jose Sharks,False,,,,False
+20142015,2014-11-10,Boston Bruins,New Jersey Devils,False,,,,False
+20142015,2014-11-11,Nashville Predators,Edmonton Oilers,False,,,,False
+20142015,2014-11-11,Chicago Blackhawks,Tampa Bay Lightning,False,,,,False
+20142015,2014-11-13,Minnesota Wild,Buffalo Sabres,True,Nino Niederreiter,Minnesota Wild,3,False
+20142015,2014-11-14,Detroit Red Wings,Chicago Blackhawks,False,,,,False
+20142015,2014-11-15,Boston Bruins,Carolina Hurricanes,False,,,,False
+20142015,2014-11-15,Nashville Predators,Winnipeg Jets,False,,,,False
+20142015,2014-11-15,Pittsburgh Penguins,New York Rangers,False,,,,False
+20142015,2014-11-16,Minnesota Wild,Winnipeg Jets,False,,,,False
+20142015,2014-11-16,Chicago Blackhawks,Dallas Stars,False,,,,False
+20142015,2014-11-16,Detroit Red Wings,Montréal Canadiens,False,,,,True
+20142015,2014-11-18,Boston Bruins,St. Louis Blues,False,,,,False
+20142015,2014-11-21,Pittsburgh Penguins,New York Islanders,False,,,,False
+20142015,2014-11-22,Boston Bruins,Montréal Canadiens,False,,,,False
+20142015,2014-11-22,Nashville Predators,Florida Panthers,False,,,,False
+20142015,2014-11-24,Boston Bruins,Pittsburgh Penguins,False,,,,False
+20142015,2014-11-24,Detroit Red Wings,Ottawa Senators,False,,,,False
+20142015,2014-11-25,Nashville Predators,Los Angeles Kings,False,,,,False
+20142015,2014-11-26,Detroit Red Wings,Philadelphia Flyers,False,,,,False
+20142015,2014-11-26,Pittsburgh Penguins,Toronto Maple Leafs,True,Blake Comeau,Pittsburgh Penguins,3,False
+20142015,2014-11-26,Minnesota Wild,Los Angeles Kings,False,,,,False
+20142015,2014-11-27,Nashville Predators,Edmonton Oilers,False,,,,False
+20142015,2014-11-28,Boston Bruins,Winnipeg Jets,False,,,,False
+20142015,2014-11-28,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20142015,2014-11-29,Nashville Predators,Columbus Blue Jackets,False,,,,True
+20142015,2014-11-29,Minnesota Wild,St. Louis Blues,False,,,,False
+20142015,2014-11-30,Detroit Red Wings,Vancouver Canucks,False,,,,False
+20142015,2014-12-02,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20142015,2014-12-02,Detroit Red Wings,Florida Panthers,False,,,,False
+20142015,2014-12-03,Minnesota Wild,Montréal Canadiens,False,,,,False
+20142015,2014-12-03,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20142015,2014-12-04,Pittsburgh Penguins,Vancouver Canucks,False,,,,False
+20142015,2014-12-04,Detroit Red Wings,Dallas Stars,False,,,,False
+20142015,2014-12-04,Nashville Predators,St. Louis Blues,False,,,,False
+20142015,2014-12-05,Minnesota Wild,Anaheim Ducks,False,,,,False
+20142015,2014-12-05,Chicago Blackhawks,Montréal Canadiens,False,,,,False
+20142015,2014-12-06,Pittsburgh Penguins,Ottawa Senators,False,,,,False
+20142015,2014-12-06,Nashville Predators,Chicago Blackhawks,False,,,,False
+20142015,2014-12-06,Detroit Red Wings,New York Rangers,False,,,,True
+20142015,2014-12-09,Minnesota Wild,New York Islanders,False,,,,False
+20142015,2014-12-10,Detroit Red Wings,Toronto Maple Leafs,False,,,,False
+20142015,2014-12-11,Boston Bruins,Chicago Blackhawks,False,,,,False
+20142015,2014-12-12,Pittsburgh Penguins,Calgary Flames,False,,,,False
+20142015,2014-12-12,Detroit Red Wings,Florida Panthers,False,,,,False
+20142015,2014-12-13,Boston Bruins,Ottawa Senators,False,,,,False
+20142015,2014-12-14,Chicago Blackhawks,Calgary Flames,False,,,,False
+20142015,2014-12-15,Pittsburgh Penguins,Tampa Bay Lightning,False,,,,False
+20142015,2014-12-16,Detroit Red Wings,Columbus Blue Jackets,False,,,,False
+20142015,2014-12-16,Nashville Predators,Boston Bruins,False,,,,False
+20142015,2014-12-16,Chicago Blackhawks,Minnesota Wild,False,,,,False
+20142015,2014-12-17,Minnesota Wild,Boston Bruins,False,,,,False
+20142015,2014-12-18,Pittsburgh Penguins,Colorado Avalanche,False,,,,False
+20142015,2014-12-19,Detroit Red Wings,New York Islanders,False,,,,False
+20142015,2014-12-20,Pittsburgh Penguins,Florida Panthers,False,,,,False
+20142015,2014-12-20,Minnesota Wild,Nashville Predators,False,,,,False
+20142015,2014-12-21,Detroit Red Wings,Colorado Avalanche,False,,,,False
+20142015,2014-12-21,Chicago Blackhawks,Toronto Maple Leafs,False,,,,False
+20142015,2014-12-21,Boston Bruins,Buffalo Sabres,False,,,,False
+20142015,2014-12-23,Minnesota Wild,Philadelphia Flyers,False,,,,False
+20142015,2014-12-23,Boston Bruins,Nashville Predators,False,,,,False
+20142015,2014-12-23,Detroit Red Wings,Buffalo Sabres,False,,,,False
+20142015,2014-12-23,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20142015,2014-12-27,Minnesota Wild,Winnipeg Jets,False,,,,False
+20142015,2014-12-27,Pittsburgh Penguins,Washington Capitals,False,,,,False
+20142015,2014-12-27,Nashville Predators,Philadelphia Flyers,False,,,,False
+20142015,2014-12-29,Boston Bruins,Detroit Red Wings,False,,,,False
+20142015,2014-12-29,Chicago Blackhawks,Nashville Predators,False,,,,False
+20142015,2014-12-30,Nashville Predators,St. Louis Blues,False,,,,False
+20142015,2014-12-31,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20142015,2014-12-31,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20142015,2014-12-31,Detroit Red Wings,New Jersey Devils,False,,,,False
+20142015,2015-01-02,Pittsburgh Penguins,Tampa Bay Lightning,False,,,,False
+20142015,2015-01-02,Minnesota Wild,Toronto Maple Leafs,False,,,,False
+20142015,2015-01-03,Boston Bruins,Ottawa Senators,False,,,,False
+20142015,2015-01-03,Pittsburgh Penguins,Montréal Canadiens,False,,,,False
+20142015,2015-01-04,Chicago Blackhawks,Dallas Stars,False,,,,False
+20142015,2015-01-06,Nashville Predators,Carolina Hurricanes,False,,,,False
+20142015,2015-01-06,Minnesota Wild,San Jose Sharks,False,,,,False
+20142015,2015-01-06,Chicago Blackhawks,Colorado Avalanche,False,,,,False
+20142015,2015-01-07,Pittsburgh Penguins,Boston Bruins,False,,,,False
+20142015,2015-01-08,Boston Bruins,New Jersey Devils,False,,,,False
+20142015,2015-01-08,Nashville Predators,Dallas Stars,False,,,,False
+20142015,2015-01-08,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20142015,2015-01-10,Minnesota Wild,Nashville Predators,False,,,,False
+20142015,2015-01-11,Chicago Blackhawks,Minnesota Wild,False,,,,False
+20142015,2015-01-13,Boston Bruins,Tampa Bay Lightning,False,,,,False
+20142015,2015-01-13,Pittsburgh Penguins,Minnesota Wild,False,,,,False
+20142015,2015-01-13,Nashville Predators,Vancouver Canucks,False,,,,False
+20142015,2015-01-15,Boston Bruins,New York Rangers,False,,,,False
+20142015,2015-01-16,Nashville Predators,Washington Capitals,False,,,,False
+20142015,2015-01-16,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20142015,2015-01-17,Boston Bruins,Columbus Blue Jackets,False,,,,False
+20142015,2015-01-17,Detroit Red Wings,Nashville Predators,False,,,,False
+20142015,2015-01-17,Minnesota Wild,Arizona Coyotes,False,,,,False
+20142015,2015-01-18,Pittsburgh Penguins,New York Rangers,False,,,,False
+20142015,2015-01-18,Chicago Blackhawks,Dallas Stars,False,,,,False
+20142015,2015-01-18,Detroit Red Wings,Buffalo Sabres,True,Henrik Zetterberg,Detroit Red Wings,3,False
+20142015,2015-01-19,Minnesota Wild,Columbus Blue Jackets,False,,,,False
+20142015,2015-01-20,Detroit Red Wings,Minnesota Wild,False,,,,False
+20142015,2015-01-20,Chicago Blackhawks,Arizona Coyotes,False,,,,False
+20142015,2015-01-21,Pittsburgh Penguins,Chicago Blackhawks,False,,,,False
+20142015,2015-01-27,Pittsburgh Penguins,Winnipeg Jets,False,,,,False
+20142015,2015-01-27,Nashville Predators,Colorado Avalanche,False,,,,False
+20142015,2015-01-31,Detroit Red Wings,New York Islanders,False,,,,False
+20142015,2015-01-31,Boston Bruins,Los Angeles Kings,False,,,,False
+20142015,2015-02-01,Pittsburgh Penguins,Nashville Predators,False,,,,True
+20142015,2015-02-03,Nashville Predators,Toronto Maple Leafs,False,,,,False
+20142015,2015-02-03,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20142015,2015-02-05,Nashville Predators,Anaheim Ducks,False,,,,False
+20142015,2015-02-07,Nashville Predators,New York Rangers,False,,,,False
+20142015,2015-02-07,Boston Bruins,New York Islanders,False,,,,False
+20142015,2015-02-07,Minnesota Wild,Colorado Avalanche,False,,,,False
+20142015,2015-02-08,Boston Bruins,Montréal Canadiens,False,,,,False
+20142015,2015-02-09,Minnesota Wild,Vancouver Canucks,False,,,,False
+20142015,2015-02-09,Chicago Blackhawks,Arizona Coyotes,False,,,,False
+20142015,2015-02-10,Boston Bruins,Dallas Stars,False,,,,False
+20142015,2015-02-10,Nashville Predators,Tampa Bay Lightning,False,,,,False
+20142015,2015-02-11,Chicago Blackhawks,Vancouver Canucks,False,,,,False
+20142015,2015-02-11,Pittsburgh Penguins,Detroit Red Wings,False,,,,False
+20142015,2015-02-12,Nashville Predators,Winnipeg Jets,False,,,,False
+20142015,2015-02-12,Minnesota Wild,Florida Panthers,False,,,,False
+20142015,2015-02-13,Chicago Blackhawks,New Jersey Devils,False,,,,True
+20142015,2015-02-14,Detroit Red Wings,Winnipeg Jets,False,,,,False
+20142015,2015-02-14,Nashville Predators,New Jersey Devils,False,,,,False
+20142015,2015-02-14,Minnesota Wild,Carolina Hurricanes,False,,,,False
+20142015,2015-02-15,Chicago Blackhawks,Pittsburgh Penguins,False,,,,False
+20142015,2015-02-16,Detroit Red Wings,Montréal Canadiens,False,,,,False
+20142015,2015-02-17,Pittsburgh Penguins,Washington Capitals,False,,,,False
+20142015,2015-02-17,Nashville Predators,San Jose Sharks,False,,,,False
+20142015,2015-02-18,Chicago Blackhawks,Detroit Red Wings,False,,,,True
+20142015,2015-02-19,Pittsburgh Penguins,Columbus Blue Jackets,False,,,,False
+20142015,2015-02-20,Chicago Blackhawks,Colorado Avalanche,False,,,,True
+20142015,2015-02-22,Chicago Blackhawks,Boston Bruins,False,,,,False
+20142015,2015-02-22,Pittsburgh Penguins,Florida Panthers,False,,,,True
+20142015,2015-02-22,Minnesota Wild,Dallas Stars,False,,,,False
+20142015,2015-02-24,Boston Bruins,Vancouver Canucks,False,,,,False
+20142015,2015-02-24,Nashville Predators,Colorado Avalanche,False,,,,False
+20142015,2015-02-24,Minnesota Wild,Edmonton Oilers,False,,,,False
+20142015,2015-02-24,Chicago Blackhawks,Florida Panthers,False,,,,False
+20142015,2015-02-26,Nashville Predators,Minnesota Wild,False,,,,False
+20142015,2015-02-28,Nashville Predators,Detroit Red Wings,False,,,,False
+20142015,2015-02-28,Boston Bruins,Arizona Coyotes,False,,,,False
+20142015,2015-03-01,Pittsburgh Penguins,Columbus Blue Jackets,False,,,,False
+20142015,2015-03-02,Chicago Blackhawks,Carolina Hurricanes,False,,,,False
+20142015,2015-03-03,Minnesota Wild,Ottawa Senators,False,,,,False
+20142015,2015-03-04,Detroit Red Wings,New York Rangers,False,,,,False
+20142015,2015-03-05,Boston Bruins,Calgary Flames,False,,,,False
+20142015,2015-03-05,Nashville Predators,New York Islanders,False,,,,False
+20142015,2015-03-06,Detroit Red Wings,Calgary Flames,False,,,,False
+20142015,2015-03-06,Chicago Blackhawks,Edmonton Oilers,False,,,,False
+20142015,2015-03-07,Boston Bruins,Philadelphia Flyers,False,,,,False
+20142015,2015-03-07,Nashville Predators,Winnipeg Jets,False,,,,False
+20142015,2015-03-08,Boston Bruins,Detroit Red Wings,False,,,,False
+20142015,2015-03-08,Minnesota Wild,Colorado Avalanche,False,,,,False
+20142015,2015-03-08,Chicago Blackhawks,New York Rangers,False,,,,False
+20142015,2015-03-09,Detroit Red Wings,Edmonton Oilers,False,,,,False
+20142015,2015-03-10,Minnesota Wild,New Jersey Devils,False,,,,False
+20142015,2015-03-12,Boston Bruins,Tampa Bay Lightning,False,,,,False
+20142015,2015-03-12,Pittsburgh Penguins,Edmonton Oilers,False,,,,False
+20142015,2015-03-12,Detroit Red Wings,Columbus Blue Jackets,False,,,,False
+20142015,2015-03-13,Minnesota Wild,Anaheim Ducks,False,,,,False
+20142015,2015-03-14,Pittsburgh Penguins,Boston Bruins,False,,,,False
+20142015,2015-03-15,Pittsburgh Penguins,Detroit Red Wings,False,,,,False
+20142015,2015-03-17,Boston Bruins,Buffalo Sabres,False,,,,True
+20142015,2015-03-17,Nashville Predators,Minnesota Wild,False,,,,False
+20142015,2015-03-17,Chicago Blackhawks,New York Islanders,False,,,,True
+20142015,2015-03-19,Minnesota Wild,Washington Capitals,False,,,,False
+20142015,2015-03-21,Minnesota Wild,St. Louis Blues,False,,,,False
+20142015,2015-03-21,Nashville Predators,Buffalo Sabres,False,,,,False
+20142015,2015-03-22,Detroit Red Wings,St. Louis Blues,False,,,,False
+20142015,2015-03-24,Pittsburgh Penguins,St. Louis Blues,False,,,,False
+20142015,2015-03-24,Detroit Red Wings,Arizona Coyotes,False,,,,False
+20142015,2015-03-24,Nashville Predators,Montréal Canadiens,False,,,,False
+20142015,2015-03-26,Boston Bruins,Anaheim Ducks,False,,,,False
+20142015,2015-03-26,Detroit Red Wings,San Jose Sharks,False,,,,False
+20142015,2015-03-27,Minnesota Wild,Calgary Flames,False,,,,False
+20142015,2015-03-27,Chicago Blackhawks,Columbus Blue Jackets,True,Cam Atkinson,Columbus Blue Jackets,3,False
+20142015,2015-03-28,Boston Bruins,New York Rangers,False,,,,False
+20142015,2015-03-28,Pittsburgh Penguins,Arizona Coyotes,False,,,,False
+20142015,2015-03-28,Detroit Red Wings,Tampa Bay Lightning,False,,,,False
+20142015,2015-03-28,Minnesota Wild,Los Angeles Kings,False,,,,False
+20142015,2015-03-29,Nashville Predators,Calgary Flames,False,,,,False
+20142015,2015-03-29,Pittsburgh Penguins,San Jose Sharks,False,,,,False
+20142015,2015-03-30,Chicago Blackhawks,Los Angeles Kings,False,,,,False
+20142015,2015-03-31,Boston Bruins,Florida Panthers,False,,,,False
+20142015,2015-03-31,Detroit Red Wings,Ottawa Senators,False,,,,False
+20142015,2015-03-31,Nashville Predators,Vancouver Canucks,False,,,,False
+20142015,2015-04-01,Pittsburgh Penguins,Philadelphia Flyers,False,,,,False
+20142015,2015-04-02,Detroit Red Wings,Boston Bruins,False,,,,False
+20142015,2015-04-02,Minnesota Wild,New York Rangers,False,,,,False
+20142015,2015-04-02,Chicago Blackhawks,Vancouver Canucks,False,,,,False
+20142015,2015-04-04,Minnesota Wild,Detroit Red Wings,False,,,,False
+20142015,2015-04-04,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20142015,2015-04-04,Nashville Predators,Dallas Stars,False,,,,False
+20142015,2015-04-05,Detroit Red Wings,Washington Capitals,False,,,,False
+20142015,2015-04-05,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20142015,2015-04-06,Minnesota Wild,Winnipeg Jets,False,,,,False
+20142015,2015-04-07,Detroit Red Wings,Carolina Hurricanes,False,,,,False
+20142015,2015-04-07,Chicago Blackhawks,Minnesota Wild,False,,,,False
+20142015,2015-04-09,Nashville Predators,Minnesota Wild,False,,,,True
+20142015,2015-04-10,Pittsburgh Penguins,New York Islanders,False,,,,False
+20152016,2015-10-07,Chicago Blackhawks,New York Rangers,False,,,,False
+20152016,2015-10-08,Boston Bruins,Winnipeg Jets,False,,,,False
+20152016,2015-10-08,St. Louis Blues,Edmonton Oilers,False,,,,False
+20152016,2015-10-08,Dallas Stars,Pittsburgh Penguins,False,,,,False
+20152016,2015-10-09,New Jersey Devils,Winnipeg Jets,False,,,,False
+20152016,2015-10-09,Detroit Red Wings,Toronto Maple Leafs,True,Justin Abdelkader,Detroit Red Wings,3,False
+20152016,2015-10-10,Boston Bruins,Montréal Canadiens,False,,,,False
+20152016,2015-10-10,Washington Capitals,New Jersey Devils,False,,,,False
+20152016,2015-10-10,Minnesota Wild,St. Louis Blues,False,,,,False
+20152016,2015-10-10,Chicago Blackhawks,New York Islanders,False,,,,False
+20152016,2015-10-12,Boston Bruins,Tampa Bay Lightning,False,,,,False
+20152016,2015-10-12,Anaheim Ducks,Vancouver Canucks,False,,,,False
+20152016,2015-10-13,New Jersey Devils,Nashville Predators,False,,,,False
+20152016,2015-10-13,Pittsburgh Penguins,Montréal Canadiens,False,,,,False
+20152016,2015-10-13,Washington Capitals,San Jose Sharks,False,,,,False
+20152016,2015-10-13,Detroit Red Wings,Tampa Bay Lightning,False,,,,False
+20152016,2015-10-13,Dallas Stars,Edmonton Oilers,True,Jason Spezza,Dallas Stars,3,False
+20152016,2015-10-14,Anaheim Ducks,Arizona Coyotes,True,Anthony Duclair,Arizona Coyotes,3,False
+20152016,2015-10-15,Pittsburgh Penguins,Ottawa Senators,False,,,,False
+20152016,2015-10-15,Washington Capitals,Chicago Blackhawks,False,,,,False
+20152016,2015-10-16,New Jersey Devils,San Jose Sharks,False,,,,False
+20152016,2015-10-16,Detroit Red Wings,Carolina Hurricanes,False,,,,False
+20152016,2015-10-16,Anaheim Ducks,Colorado Avalanche,False,,,,False
+20152016,2015-10-17,Pittsburgh Penguins,Toronto Maple Leafs,False,,,,False
+20152016,2015-10-17,Washington Capitals,Carolina Hurricanes,False,,,,False
+20152016,2015-10-17,Chicago Blackhawks,Columbus Blue Jackets,False,,,,False
+20152016,2015-10-18,Anaheim Ducks,Minnesota Wild,False,,,,False
+20152016,2015-10-20,New Jersey Devils,Arizona Coyotes,False,,,,False
+20152016,2015-10-20,Pittsburgh Penguins,Florida Panthers,False,,,,False
+20152016,2015-10-21,Boston Bruins,Philadelphia Flyers,False,,,,False
+20152016,2015-10-22,Pittsburgh Penguins,Dallas Stars,False,,,,False
+20152016,2015-10-22,Minnesota Wild,Columbus Blue Jackets,False,,,,False
+20152016,2015-10-22,Chicago Blackhawks,Florida Panthers,False,,,,False
+20152016,2015-10-24,Minnesota Wild,Anaheim Ducks,False,,,,False
+20152016,2015-10-24,St. Louis Blues,New York Islanders,False,,,,False
+20152016,2015-10-24,Dallas Stars,Florida Panthers,False,,,,False
+20152016,2015-10-24,Chicago Blackhawks,Tampa Bay Lightning,False,,,,False
+20152016,2015-10-26,Chicago Blackhawks,Anaheim Ducks,False,,,,False
+20152016,2015-10-27,Boston Bruins,Arizona Coyotes,False,,,,False
+20152016,2015-10-27,New Jersey Devils,Columbus Blue Jackets,False,,,,False
+20152016,2015-10-27,Detroit Red Wings,Carolina Hurricanes,False,,,,False
+20152016,2015-10-27,St. Louis Blues,Tampa Bay Lightning,False,,,,False
+20152016,2015-10-27,Minnesota Wild,Edmonton Oilers,False,,,,False
+20152016,2015-10-27,Dallas Stars,Anaheim Ducks,False,,,,False
+20152016,2015-10-28,Washington Capitals,Pittsburgh Penguins,False,,,,False
+20152016,2015-10-29,Pittsburgh Penguins,Buffalo Sabres,False,,,,False
+20152016,2015-10-29,St. Louis Blues,Anaheim Ducks,False,,,,True
+20152016,2015-10-29,Dallas Stars,Vancouver Canucks,False,,,,False
+20152016,2015-10-30,Washington Capitals,Columbus Blue Jackets,False,,,,False
+20152016,2015-10-30,Detroit Red Wings,Ottawa Senators,False,,,,False
+20152016,2015-10-30,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20152016,2015-10-31,New Jersey Devils,New York Islanders,False,,,,False
+20152016,2015-10-31,Dallas Stars,San Jose Sharks,False,,,,False
+20152016,2015-10-31,St. Louis Blues,Minnesota Wild,False,,,,False
+20152016,2015-11-01,Anaheim Ducks,Nashville Predators,False,,,,False
+20152016,2015-11-02,Chicago Blackhawks,Los Angeles Kings,False,,,,False
+20152016,2015-11-03,Boston Bruins,Dallas Stars,True,Tyler Seguin,Dallas Stars,3,False
+20152016,2015-11-03,Detroit Red Wings,Tampa Bay Lightning,False,,,,False
+20152016,2015-11-03,St. Louis Blues,Los Angeles Kings,False,,,,False
+20152016,2015-11-04,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20152016,2015-11-04,Anaheim Ducks,Florida Panthers,False,,,,False
+20152016,2015-11-05,Washington Capitals,Boston Bruins,False,,,,False
+20152016,2015-11-05,Minnesota Wild,Nashville Predators,False,,,,True
+20152016,2015-11-06,New Jersey Devils,Chicago Blackhawks,False,,,,False
+20152016,2015-11-06,Anaheim Ducks,Columbus Blue Jackets,False,,,,False
+20152016,2015-11-07,Washington Capitals,Toronto Maple Leafs,False,,,,False
+20152016,2015-11-07,Minnesota Wild,Tampa Bay Lightning,False,,,,False
+20152016,2015-11-08,Detroit Red Wings,Dallas Stars,False,,,,False
+20152016,2015-11-08,New Jersey Devils,Vancouver Canucks,False,,,,False
+20152016,2015-11-08,Chicago Blackhawks,Edmonton Oilers,False,,,,False
+20152016,2015-11-09,Anaheim Ducks,Arizona Coyotes,False,,,,False
+20152016,2015-11-10,New Jersey Devils,St. Louis Blues,False,,,,True
+20152016,2015-11-10,Detroit Red Wings,Washington Capitals,False,,,,False
+20152016,2015-11-10,Minnesota Wild,Winnipeg Jets,False,,,,False
+20152016,2015-11-10,Dallas Stars,Toronto Maple Leafs,False,,,,False
+20152016,2015-11-11,Pittsburgh Penguins,Montréal Canadiens,False,,,,False
+20152016,2015-11-11,Anaheim Ducks,Edmonton Oilers,False,,,,False
+20152016,2015-11-12,Boston Bruins,Colorado Avalanche,False,,,,False
+20152016,2015-11-12,Chicago Blackhawks,New Jersey Devils,False,,,,False
+20152016,2015-11-12,Dallas Stars,Winnipeg Jets,False,,,,False
+20152016,2015-11-13,Pittsburgh Penguins,Columbus Blue Jackets,False,,,,False
+20152016,2015-11-13,Washington Capitals,Calgary Flames,False,,,,False
+20152016,2015-11-13,Detroit Red Wings,San Jose Sharks,False,,,,False
+20152016,2015-11-13,Anaheim Ducks,New York Islanders,False,,,,False
+20152016,2015-11-14,Boston Bruins,Detroit Red Wings,False,,,,False
+20152016,2015-11-14,New Jersey Devils,Pittsburgh Penguins,False,,,,False
+20152016,2015-11-14,St. Louis Blues,Chicago Blackhawks,False,,,,False
+20152016,2015-11-14,Dallas Stars,Minnesota Wild,False,,,,False
+20152016,2015-11-15,Chicago Blackhawks,Calgary Flames,False,,,,False
+20152016,2015-11-16,St. Louis Blues,Winnipeg Jets,False,,,,False
+20152016,2015-11-17,Boston Bruins,San Jose Sharks,False,,,,False
+20152016,2015-11-17,Pittsburgh Penguins,Minnesota Wild,False,,,,False
+20152016,2015-11-18,Detroit Red Wings,Washington Capitals,False,,,,True
+20152016,2015-11-19,Boston Bruins,Minnesota Wild,True,Loui Eriksson,Boston Bruins,3,False
+20152016,2015-11-19,Pittsburgh Penguins,Colorado Avalanche,False,,,,False
+20152016,2015-11-19,Washington Capitals,Dallas Stars,False,,,,False
+20152016,2015-11-19,St. Louis Blues,Buffalo Sabres,False,,,,False
+20152016,2015-11-20,Detroit Red Wings,Los Angeles Kings,False,,,,False
+20152016,2015-11-21,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20152016,2015-11-21,Pittsburgh Penguins,San Jose Sharks,False,,,,False
+20152016,2015-11-21,Washington Capitals,Colorado Avalanche,False,,,,False
+20152016,2015-11-21,St. Louis Blues,Detroit Red Wings,False,,,,False
+20152016,2015-11-21,Dallas Stars,Buffalo Sabres,False,,,,False
+20152016,2015-11-21,Minnesota Wild,Nashville Predators,False,,,,False
+20152016,2015-11-23,Washington Capitals,Edmonton Oilers,False,,,,False
+20152016,2015-11-24,Dallas Stars,Ottawa Senators,False,,,,False
+20152016,2015-11-24,Anaheim Ducks,Calgary Flames,False,,,,False
+20152016,2015-11-25,Minnesota Wild,Vancouver Canucks,False,,,,False
+20152016,2015-11-25,New Jersey Devils,Columbus Blue Jackets,False,,,,False
+20152016,2015-11-25,Pittsburgh Penguins,St. Louis Blues,False,,,,False
+20152016,2015-11-25,Washington Capitals,Winnipeg Jets,False,,,,False
+20152016,2015-11-25,Detroit Red Wings,Boston Bruins,False,,,,False
+20152016,2015-11-27,Boston Bruins,New York Rangers,False,,,,False
+20152016,2015-11-27,Minnesota Wild,Winnipeg Jets,False,,,,False
+20152016,2015-11-27,Anaheim Ducks,Chicago Blackhawks,False,,,,False
+20152016,2015-11-27,Washington Capitals,Tampa Bay Lightning,False,,,,False
+20152016,2015-11-27,New Jersey Devils,Montréal Canadiens,False,,,,False
+20152016,2015-11-27,Detroit Red Wings,Edmonton Oilers,False,,,,False
+20152016,2015-11-27,Dallas Stars,Vancouver Canucks,False,,,,False
+20152016,2015-11-28,Pittsburgh Penguins,Edmonton Oilers,False,,,,False
+20152016,2015-11-28,St. Louis Blues,Columbus Blue Jackets,False,,,,False
+20152016,2015-11-28,Minnesota Wild,Dallas Stars,False,,,,False
+20152016,2015-11-29,Detroit Red Wings,Florida Panthers,False,,,,False
+20152016,2015-11-30,Anaheim Ducks,Vancouver Canucks,False,,,,False
+20152016,2015-12-01,New Jersey Devils,Colorado Avalanche,False,,,,False
+20152016,2015-12-01,Detroit Red Wings,Buffalo Sabres,False,,,,False
+20152016,2015-12-01,St. Louis Blues,Florida Panthers,False,,,,False
+20152016,2015-12-01,Chicago Blackhawks,Minnesota Wild,False,,,,True
+20152016,2015-12-02,Anaheim Ducks,Tampa Bay Lightning,False,,,,False
+20152016,2015-12-03,Detroit Red Wings,Arizona Coyotes,False,,,,False
+20152016,2015-12-03,Minnesota Wild,Toronto Maple Leafs,False,,,,False
+20152016,2015-12-04,New Jersey Devils,Philadelphia Flyers,False,,,,False
+20152016,2015-12-04,Anaheim Ducks,San Jose Sharks,False,,,,False
+20152016,2015-12-05,St. Louis Blues,Toronto Maple Leafs,False,,,,False
+20152016,2015-12-05,Detroit Red Wings,Nashville Predators,True,Shea Weber,Nashville Predators,3,False
+20152016,2015-12-05,Minnesota Wild,Colorado Avalanche,False,,,,False
+20152016,2015-12-06,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20152016,2015-12-06,New Jersey Devils,Florida Panthers,False,,,,False
+20152016,2015-12-06,Anaheim Ducks,Pittsburgh Penguins,False,,,,False
+20152016,2015-12-07,Boston Bruins,Nashville Predators,False,,,,False
+20152016,2015-12-08,Washington Capitals,Detroit Red Wings,False,,,,False
+20152016,2015-12-08,St. Louis Blues,Arizona Coyotes,False,,,,False
+20152016,2015-12-08,Chicago Blackhawks,Nashville Predators,False,,,,False
+20152016,2015-12-08,Dallas Stars,Carolina Hurricanes,False,,,,False
+20152016,2015-12-10,Detroit Red Wings,Montréal Canadiens,False,,,,False
+20152016,2015-12-10,St. Louis Blues,Philadelphia Flyers,False,,,,False
+20152016,2015-12-11,New Jersey Devils,Detroit Red Wings,False,,,,False
+20152016,2015-12-11,Pittsburgh Penguins,Los Angeles Kings,False,,,,False
+20152016,2015-12-11,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20152016,2015-12-11,Dallas Stars,Philadelphia Flyers,False,,,,False
+20152016,2015-12-11,Anaheim Ducks,Carolina Hurricanes,True,Jeff Skinner,Carolina Hurricanes,3,False
+20152016,2015-12-12,Boston Bruins,Florida Panthers,False,,,,False
+20152016,2015-12-12,St. Louis Blues,Dallas Stars,False,,,,False
+20152016,2015-12-13,St. Louis Blues,Colorado Avalanche,False,,,,False
+20152016,2015-12-13,Chicago Blackhawks,Vancouver Canucks,False,,,,False
+20152016,2015-12-14,Boston Bruins,Edmonton Oilers,False,,,,False
+20152016,2015-12-14,Pittsburgh Penguins,Washington Capitals,False,,,,False
+20152016,2015-12-14,Detroit Red Wings,Buffalo Sabres,False,,,,False
+20152016,2015-12-15,Minnesota Wild,Vancouver Canucks,False,,,,False
+20152016,2015-12-15,Chicago Blackhawks,Colorado Avalanche,False,,,,False
+20152016,2015-12-15,Dallas Stars,Columbus Blue Jackets,False,,,,False
+20152016,2015-12-16,Washington Capitals,Ottawa Senators,False,,,,False
+20152016,2015-12-16,Boston Bruins,Pittsburgh Penguins,False,,,,False
+20152016,2015-12-17,New Jersey Devils,Florida Panthers,False,,,,False
+20152016,2015-12-17,St. Louis Blues,Nashville Predators,False,,,,False
+20152016,2015-12-17,Minnesota Wild,New York Rangers,False,,,,False
+20152016,2015-12-17,Chicago Blackhawks,Edmonton Oilers,False,,,,False
+20152016,2015-12-17,Dallas Stars,Calgary Flames,False,,,,False
+20152016,2015-12-18,Pittsburgh Penguins,Boston Bruins,True,Frank Vatrano,Boston Bruins,3,False
+20152016,2015-12-18,Washington Capitals,Tampa Bay Lightning,False,,,,False
+20152016,2015-12-18,Detroit Red Wings,Vancouver Canucks,False,,,,False
+20152016,2015-12-19,St. Louis Blues,Calgary Flames,False,,,,False
+20152016,2015-12-19,Dallas Stars,Montréal Canadiens,False,,,,False
+20152016,2015-12-19,New Jersey Devils,Anaheim Ducks,False,,,,False
+20152016,2015-12-19,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20152016,2015-12-20,Boston Bruins,New Jersey Devils,False,,,,False
+20152016,2015-12-20,Chicago Blackhawks,San Jose Sharks,False,,,,False
+20152016,2015-12-20,Detroit Red Wings,Calgary Flames,False,,,,False
+20152016,2015-12-21,Pittsburgh Penguins,Columbus Blue Jackets,False,,,,True
+20152016,2015-12-21,Minnesota Wild,Dallas Stars,False,,,,False
+20152016,2015-12-22,Boston Bruins,St. Louis Blues,False,,,,False
+20152016,2015-12-22,Detroit Red Wings,New Jersey Devils,False,,,,False
+20152016,2015-12-22,Minnesota Wild,Montréal Canadiens,False,,,,False
+20152016,2015-12-22,Dallas Stars,Chicago Blackhawks,False,,,,False
+20152016,2015-12-26,Boston Bruins,Buffalo Sabres,False,,,,False
+20152016,2015-12-26,Washington Capitals,Montréal Canadiens,False,,,,False
+20152016,2015-12-26,St. Louis Blues,Dallas Stars,False,,,,False
+20152016,2015-12-26,Minnesota Wild,Pittsburgh Penguins,False,,,,False
+20152016,2015-12-27,Dallas Stars,St. Louis Blues,False,,,,False
+20152016,2015-12-27,Chicago Blackhawks,Carolina Hurricanes,False,,,,False
+20152016,2015-12-27,Anaheim Ducks,Philadelphia Flyers,False,,,,False
+20152016,2015-12-28,Minnesota Wild,Detroit Red Wings,False,,,,False
+20152016,2015-12-29,Boston Bruins,Ottawa Senators,True,Jimmy Hayes,Boston Bruins,3,True
+20152016,2015-12-29,New Jersey Devils,Carolina Hurricanes,False,,,,False
+20152016,2015-12-29,St. Louis Blues,Nashville Predators,False,,,,False
+20152016,2015-12-30,Pittsburgh Penguins,Toronto Maple Leafs,False,,,,False
+20152016,2015-12-30,Washington Capitals,Buffalo Sabres,False,,,,False
+20152016,2015-12-31,Detroit Red Wings,Pittsburgh Penguins,False,,,,False
+20152016,2015-12-31,St. Louis Blues,Minnesota Wild,False,,,,False
+20152016,2015-12-31,Dallas Stars,Nashville Predators,False,,,,False
+20152016,2016-01-01,Boston Bruins,Montréal Canadiens,False,,,,False
+20152016,2016-01-02,New Jersey Devils,Dallas Stars,False,,,,False
+20152016,2016-01-02,Pittsburgh Penguins,New York Islanders,False,,,,False
+20152016,2016-01-03,Chicago Blackhawks,Ottawa Senators,False,,,,False
+20152016,2016-01-03,Anaheim Ducks,Winnipeg Jets,False,,,,False
+20152016,2016-01-04,New Jersey Devils,Detroit Red Wings,False,,,,False
+20152016,2016-01-04,St. Louis Blues,Ottawa Senators,False,,,,False
+20152016,2016-01-05,Boston Bruins,Washington Capitals,False,,,,False
+20152016,2016-01-05,Pittsburgh Penguins,Chicago Blackhawks,False,,,,False
+20152016,2016-01-06,Chicago Blackhawks,Pittsburgh Penguins,False,,,,False
+20152016,2016-01-06,Anaheim Ducks,Toronto Maple Leafs,False,,,,False
+20152016,2016-01-07,Minnesota Wild,Philadelphia Flyers,False,,,,False
+20152016,2016-01-07,Dallas Stars,Winnipeg Jets,False,,,,False
+20152016,2016-01-08,New Jersey Devils,Boston Bruins,False,,,,False
+20152016,2016-01-08,Chicago Blackhawks,Buffalo Sabres,False,,,,False
+20152016,2016-01-08,Anaheim Ducks,St. Louis Blues,False,,,,False
+20152016,2016-01-09,Dallas Stars,Minnesota Wild,False,,,,False
+20152016,2016-01-10,Chicago Blackhawks,Colorado Avalanche,False,,,,False
+20152016,2016-01-10,Washington Capitals,Ottawa Senators,False,,,,False
+20152016,2016-01-10,Anaheim Ducks,Detroit Red Wings,False,,,,False
+20152016,2016-01-10,Minnesota Wild,New Jersey Devils,False,,,,False
+20152016,2016-01-12,St. Louis Blues,New Jersey Devils,False,,,,False
+20152016,2016-01-12,Minnesota Wild,Buffalo Sabres,False,,,,False
+20152016,2016-01-12,Chicago Blackhawks,Nashville Predators,False,,,,False
+20152016,2016-01-13,Anaheim Ducks,Ottawa Senators,False,,,,False
+20152016,2016-01-14,Washington Capitals,Vancouver Canucks,False,,,,False
+20152016,2016-01-14,St. Louis Blues,Carolina Hurricanes,False,,,,False
+20152016,2016-01-15,Minnesota Wild,Winnipeg Jets,False,,,,False
+20152016,2016-01-15,Anaheim Ducks,Dallas Stars,False,,,,False
+20152016,2016-01-16,St. Louis Blues,Montréal Canadiens,False,,,,False
+20152016,2016-01-16,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20152016,2016-01-17,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20152016,2016-01-17,Washington Capitals,New York Rangers,True,Justin Williams,Washington Capitals,3,False
+20152016,2016-01-17,Chicago Blackhawks,Montréal Canadiens,False,,,,False
+20152016,2016-01-17,Detroit Red Wings,Philadelphia Flyers,False,,,,False
+20152016,2016-01-17,Anaheim Ducks,Los Angeles Kings,False,,,,False
+20152016,2016-01-18,St. Louis Blues,Pittsburgh Penguins,False,,,,False
+20152016,2016-01-19,New Jersey Devils,Calgary Flames,False,,,,False
+20152016,2016-01-20,Detroit Red Wings,St. Louis Blues,False,,,,False
+20152016,2016-01-20,Anaheim Ducks,Minnesota Wild,False,,,,False
+20152016,2016-01-21,Boston Bruins,Vancouver Canucks,False,,,,False
+20152016,2016-01-21,New Jersey Devils,Ottawa Senators,False,,,,False
+20152016,2016-01-21,Pittsburgh Penguins,Philadelphia Flyers,False,,,,False
+20152016,2016-01-21,Dallas Stars,Edmonton Oilers,False,,,,False
+20152016,2016-01-23,Pittsburgh Penguins,Vancouver Canucks,True,Jannik Hansen,Vancouver Canucks,3,False
+20152016,2016-01-23,Boston Bruins,Columbus Blue Jackets,False,,,,False
+20152016,2016-01-23,Detroit Red Wings,Anaheim Ducks,False,,,,False
+20152016,2016-01-23,Dallas Stars,Colorado Avalanche,False,,,,False
+20152016,2016-01-24,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20152016,2016-01-25,Dallas Stars,Calgary Flames,False,,,,False
+20152016,2016-01-25,Minnesota Wild,Arizona Coyotes,False,,,,False
+20152016,2016-01-26,Boston Bruins,Anaheim Ducks,False,,,,False
+20152016,2016-01-26,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20152016,2016-01-27,Washington Capitals,Philadelphia Flyers,False,,,,False
+20152016,2016-02-02,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20152016,2016-02-02,New Jersey Devils,New York Rangers,False,,,,False
+20152016,2016-02-02,Pittsburgh Penguins,Ottawa Senators,True,Sidney Crosby,Pittsburgh Penguins,3,False
+20152016,2016-02-02,Washington Capitals,Florida Panthers,False,,,,False
+20152016,2016-02-02,Anaheim Ducks,San Jose Sharks,False,,,,False
+20152016,2016-02-04,Washington Capitals,New York Islanders,False,,,,False
+20152016,2016-02-04,St. Louis Blues,San Jose Sharks,False,,,,False
+20152016,2016-02-05,Anaheim Ducks,Arizona Coyotes,False,,,,False
+20152016,2016-02-06,New Jersey Devils,Washington Capitals,False,,,,False
+20152016,2016-02-06,Detroit Red Wings,New York Islanders,False,,,,False
+20152016,2016-02-06,Boston Bruins,Buffalo Sabres,False,,,,False
+20152016,2016-02-06,St. Louis Blues,Minnesota Wild,False,,,,False
+20152016,2016-02-06,Dallas Stars,Chicago Blackhawks,False,,,,False
+20152016,2016-02-07,Washington Capitals,Philadelphia Flyers,False,,,,False
+20152016,2016-02-08,Pittsburgh Penguins,Anaheim Ducks,False,,,,False
+20152016,2016-02-08,Detroit Red Wings,Florida Panthers,False,,,,False
+20152016,2016-02-09,Boston Bruins,Los Angeles Kings,False,,,,False
+20152016,2016-02-09,St. Louis Blues,Winnipeg Jets,False,,,,False
+20152016,2016-02-09,Minnesota Wild,Dallas Stars,False,,,,False
+20152016,2016-02-09,New Jersey Devils,Edmonton Oilers,False,,,,False
+20152016,2016-02-09,Chicago Blackhawks,San Jose Sharks,False,,,,False
+20152016,2016-02-10,Detroit Red Wings,Ottawa Senators,False,,,,False
+20152016,2016-02-10,Pittsburgh Penguins,New York Rangers,False,,,,False
+20152016,2016-02-11,Minnesota Wild,Washington Capitals,True,Alex Ovechkin,Washington Capitals,3,False
+20152016,2016-02-11,Chicago Blackhawks,Dallas Stars,True,Patrick Eaves,Dallas Stars,3,False
+20152016,2016-02-12,Detroit Red Wings,Colorado Avalanche,False,,,,False
+20152016,2016-02-13,Minnesota Wild,Boston Bruins,False,,,,False
+20152016,2016-02-13,Dallas Stars,Washington Capitals,False,,,,False
+20152016,2016-02-13,Chicago Blackhawks,Anaheim Ducks,False,,,,False
+20152016,2016-02-14,New Jersey Devils,Los Angeles Kings,False,,,,False
+20152016,2016-02-14,Detroit Red Wings,Boston Bruins,False,,,,False
+20152016,2016-02-15,Chicago Blackhawks,Toronto Maple Leafs,False,,,,False
+20152016,2016-02-16,New Jersey Devils,Philadelphia Flyers,False,,,,False
+20152016,2016-02-16,Washington Capitals,Los Angeles Kings,False,,,,False
+20152016,2016-02-16,St. Louis Blues,Dallas Stars,False,,,,False
+20152016,2016-02-18,Pittsburgh Penguins,Detroit Red Wings,False,,,,False
+20152016,2016-02-18,St. Louis Blues,Los Angeles Kings,False,,,,False
+20152016,2016-02-19,New Jersey Devils,New York Islanders,False,,,,False
+20152016,2016-02-20,Pittsburgh Penguins,Tampa Bay Lightning,False,,,,False
+20152016,2016-02-20,Washington Capitals,New Jersey Devils,False,,,,False
+20152016,2016-02-20,Dallas Stars,Boston Bruins,False,,,,False
+20152016,2016-02-21,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20152016,2016-02-21,Anaheim Ducks,Calgary Flames,False,,,,False
+20152016,2016-02-22,Boston Bruins,Columbus Blue Jackets,False,,,,False
+20152016,2016-02-22,Washington Capitals,Arizona Coyotes,False,,,,False
+20152016,2016-02-22,St. Louis Blues,San Jose Sharks,False,,,,False
+20152016,2016-02-23,New Jersey Devils,New York Rangers,False,,,,False
+20152016,2016-02-23,Detroit Red Wings,Columbus Blue Jackets,False,,,,False
+20152016,2016-02-23,Minnesota Wild,New York Islanders,False,,,,False
+20152016,2016-02-24,Washington Capitals,Montréal Canadiens,False,,,,False
+20152016,2016-02-24,Boston Bruins,Pittsburgh Penguins,False,,,,False
+20152016,2016-02-24,Anaheim Ducks,Buffalo Sabres,False,,,,False
+20152016,2016-02-25,St. Louis Blues,New York Rangers,False,,,,False
+20152016,2016-02-25,Chicago Blackhawks,Nashville Predators,False,,,,True
+20152016,2016-02-25,Dallas Stars,Winnipeg Jets,False,,,,False
+20152016,2016-02-26,New Jersey Devils,Tampa Bay Lightning,False,,,,False
+20152016,2016-02-26,Washington Capitals,Minnesota Wild,False,,,,False
+20152016,2016-02-26,Anaheim Ducks,Edmonton Oilers,False,,,,False
+20152016,2016-02-27,Pittsburgh Penguins,Winnipeg Jets,False,,,,False
+20152016,2016-02-27,Dallas Stars,New York Rangers,False,,,,False
+20152016,2016-02-28,Chicago Blackhawks,Washington Capitals,False,,,,False
+20152016,2016-02-28,Minnesota Wild,Florida Panthers,False,,,,False
+20152016,2016-02-28,Boston Bruins,Tampa Bay Lightning,False,,,,False
+20152016,2016-02-28,Anaheim Ducks,Los Angeles Kings,True,Corey Perry,Anaheim Ducks,3,False
+20152016,2016-02-29,Pittsburgh Penguins,Arizona Coyotes,True,Patric Hornqvist,Pittsburgh Penguins,3,False
+20152016,2016-02-29,Dallas Stars,Detroit Red Wings,False,,,,False
+20152016,2016-03-01,Boston Bruins,Calgary Flames,False,,,,False
+20152016,2016-03-01,New Jersey Devils,Carolina Hurricanes,False,,,,False
+20152016,2016-03-01,Washington Capitals,Pittsburgh Penguins,False,,,,False
+20152016,2016-03-01,Minnesota Wild,Colorado Avalanche,False,,,,False
+20152016,2016-03-02,Washington Capitals,Toronto Maple Leafs,False,,,,False
+20152016,2016-03-02,Detroit Red Wings,Chicago Blackhawks,False,,,,False
+20152016,2016-03-02,Anaheim Ducks,Montréal Canadiens,False,,,,False
+20152016,2016-03-03,Boston Bruins,Chicago Blackhawks,False,,,,False
+20152016,2016-03-03,Pittsburgh Penguins,New York Rangers,False,,,,False
+20152016,2016-03-04,Washington Capitals,New York Rangers,False,,,,False
+20152016,2016-03-04,Dallas Stars,New Jersey Devils,False,,,,False
+20152016,2016-03-05,Pittsburgh Penguins,Calgary Flames,False,,,,False
+20152016,2016-03-05,Boston Bruins,Washington Capitals,False,,,,False
+20152016,2016-03-06,Chicago Blackhawks,Detroit Red Wings,False,,,,False
+20152016,2016-03-06,New Jersey Devils,Pittsburgh Penguins,False,,,,False
+20152016,2016-03-06,Minnesota Wild,St. Louis Blues,False,,,,False
+20152016,2016-03-07,Anaheim Ducks,Washington Capitals,False,,,,False
+20152016,2016-03-09,St. Louis Blues,Chicago Blackhawks,False,,,,False
+20152016,2016-03-10,Boston Bruins,Carolina Hurricanes,False,,,,False
+20152016,2016-03-10,Detroit Red Wings,Winnipeg Jets,False,,,,False
+20152016,2016-03-10,Minnesota Wild,Edmonton Oilers,False,,,,False
+20152016,2016-03-11,St. Louis Blues,Anaheim Ducks,False,,,,True
+20152016,2016-03-11,Dallas Stars,Chicago Blackhawks,False,,,,False
+20152016,2016-03-12,Boston Bruins,New York Islanders,False,,,,True
+20152016,2016-03-12,Detroit Red Wings,New York Rangers,False,,,,False
+20152016,2016-03-12,Dallas Stars,St. Louis Blues,False,,,,False
+20152016,2016-03-13,Detroit Red Wings,Toronto Maple Leafs,False,,,,False
+20152016,2016-03-14,Chicago Blackhawks,Los Angeles Kings,False,,,,False
+20152016,2016-03-14,Anaheim Ducks,New Jersey Devils,True,Jakob Silfverberg,Anaheim Ducks,3,False
+20152016,2016-03-15,Pittsburgh Penguins,New York Islanders,False,,,,True
+20152016,2016-03-15,Washington Capitals,Carolina Hurricanes,False,,,,False
+20152016,2016-03-15,Dallas Stars,Los Angeles Kings,False,,,,False
+20152016,2016-03-16,Chicago Blackhawks,Philadelphia Flyers,False,,,,True
+20152016,2016-03-16,Anaheim Ducks,New York Rangers,False,,,,False
+20152016,2016-03-17,New Jersey Devils,Minnesota Wild,False,,,,False
+20152016,2016-03-17,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20152016,2016-03-17,Dallas Stars,Tampa Bay Lightning,False,,,,False
+20152016,2016-03-18,Washington Capitals,Nashville Predators,False,,,,True
+20152016,2016-03-18,Anaheim Ducks,Boston Bruins,False,,,,False
+20152016,2016-03-19,Minnesota Wild,Carolina Hurricanes,False,,,,False
+20152016,2016-03-19,Dallas Stars,New York Islanders,False,,,,True
+20152016,2016-03-20,New Jersey Devils,Columbus Blue Jackets,False,,,,False
+20152016,2016-03-20,Pittsburgh Penguins,Washington Capitals,False,,,,False
+20152016,2016-03-20,Chicago Blackhawks,Minnesota Wild,False,,,,False
+20152016,2016-03-22,Minnesota Wild,Los Angeles Kings,False,,,,False
+20152016,2016-03-22,Chicago Blackhawks,Dallas Stars,False,,,,False
+20152016,2016-03-24,Boston Bruins,Florida Panthers,False,,,,False
+20152016,2016-03-24,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20152016,2016-03-24,Detroit Red Wings,Montréal Canadiens,False,,,,False
+20152016,2016-03-24,Minnesota Wild,Calgary Flames,True,Zach Parise,Minnesota Wild,3,False
+20152016,2016-03-25,New Jersey Devils,Washington Capitals,False,,,,False
+20152016,2016-03-25,St. Louis Blues,Vancouver Canucks,False,,,,False
+20152016,2016-03-26,Detroit Red Wings,Pittsburgh Penguins,False,,,,False
+20152016,2016-03-26,Washington Capitals,St. Louis Blues,False,,,,False
+20152016,2016-03-28,Washington Capitals,Columbus Blue Jackets,False,,,,False
+20152016,2016-03-28,Detroit Red Wings,Buffalo Sabres,False,,,,False
+20152016,2016-03-29,New Jersey Devils,Boston Bruins,False,,,,False
+20152016,2016-03-29,Pittsburgh Penguins,Buffalo Sabres,False,,,,False
+20152016,2016-03-29,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20152016,2016-03-29,St. Louis Blues,Colorado Avalanche,False,,,,False
+20152016,2016-03-29,Dallas Stars,Nashville Predators,False,,,,False
+20152016,2016-03-30,Anaheim Ducks,Calgary Flames,False,,,,False
+20152016,2016-03-31,Pittsburgh Penguins,Nashville Predators,False,,,,False
+20152016,2016-03-31,Minnesota Wild,Ottawa Senators,False,,,,False
+20152016,2016-03-31,Dallas Stars,Arizona Coyotes,False,,,,False
+20152016,2016-04-01,Detroit Red Wings,Minnesota Wild,False,,,,False
+20152016,2016-04-01,St. Louis Blues,Boston Bruins,False,,,,False
+20152016,2016-04-01,Anaheim Ducks,Vancouver Canucks,False,,,,False
+20152016,2016-04-03,Chicago Blackhawks,Boston Bruins,True,Patrick Kane,Chicago Blackhawks,3,False
+20152016,2016-04-03,Pittsburgh Penguins,Philadelphia Flyers,False,,,,False
+20152016,2016-04-03,Anaheim Ducks,Dallas Stars,False,,,,False
+20152016,2016-04-04,St. Louis Blues,Arizona Coyotes,False,,,,False
+20152016,2016-04-05,Boston Bruins,Carolina Hurricanes,False,,,,False
+20152016,2016-04-05,New Jersey Devils,Buffalo Sabres,False,,,,False
+20152016,2016-04-05,Washington Capitals,New York Islanders,False,,,,False
+20152016,2016-04-05,Minnesota Wild,San Jose Sharks,False,,,,False
+20152016,2016-04-05,Chicago Blackhawks,Arizona Coyotes,False,,,,False
+20152016,2016-04-05,Anaheim Ducks,Winnipeg Jets,False,,,,False
+20152016,2016-04-06,Detroit Red Wings,Philadelphia Flyers,False,,,,False
+20152016,2016-04-07,Boston Bruins,Detroit Red Wings,False,,,,False
+20152016,2016-04-07,New Jersey Devils,Tampa Bay Lightning,False,,,,False
+20152016,2016-04-07,Washington Capitals,Pittsburgh Penguins,False,,,,False
+20152016,2016-04-07,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20152016,2016-04-07,Dallas Stars,Colorado Avalanche,False,,,,False
+20152016,2016-04-09,Boston Bruins,Ottawa Senators,False,,,,False
+20152016,2016-04-09,Minnesota Wild,Calgary Flames,False,,,,False
+20152016,2016-04-09,New Jersey Devils,Toronto Maple Leafs,False,,,,False
+20152016,2016-04-09,St. Louis Blues,Washington Capitals,True,Alex Ovechkin,Washington Capitals,3,False
+20152016,2016-04-09,Dallas Stars,Nashville Predators,True,Jason Spezza,Dallas Stars,3,False
+20152016,2016-04-10,Washington Capitals,Anaheim Ducks,False,,,,False
+20162017,2016-10-12,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20162017,2016-10-13,Columbus Blue Jackets,Boston Bruins,False,,,,False
+20162017,2016-10-13,Pittsburgh Penguins,Washington Capitals,False,,,,False
+20162017,2016-10-13,Dallas Stars,Anaheim Ducks,False,,,,False
+20162017,2016-10-14,Los Angeles Kings,Philadelphia Flyers,False,,,,False
+20162017,2016-10-15,Minnesota Wild,Winnipeg Jets,False,,,,False
+20162017,2016-10-15,Pittsburgh Penguins,Anaheim Ducks,False,,,,False
+20162017,2016-10-15,Columbus Blue Jackets,San Jose Sharks,False,,,,False
+20162017,2016-10-15,Chicago Blackhawks,Nashville Predators,True,Richard Panik,Chicago Blackhawks,3,False
+20162017,2016-10-15,Arizona Coyotes,Philadelphia Flyers,False,,,,False
+20162017,2016-10-17,Pittsburgh Penguins,Colorado Avalanche,False,,,,False
+20162017,2016-10-17,Detroit Red Wings,Ottawa Senators,True,Mike Green,Detroit Red Wings,3,False
+20162017,2016-10-18,Minnesota Wild,Los Angeles Kings,False,,,,False
+20162017,2016-10-18,Chicago Blackhawks,Philadelphia Flyers,False,,,,False
+20162017,2016-10-20,Boston Bruins,New Jersey Devils,False,,,,False
+20162017,2016-10-20,Pittsburgh Penguins,San Jose Sharks,False,,,,False
+20162017,2016-10-20,Minnesota Wild,Toronto Maple Leafs,False,,,,False
+20162017,2016-10-20,Dallas Stars,Los Angeles Kings,False,,,,False
+20162017,2016-10-21,Columbus Blue Jackets,Chicago Blackhawks,False,,,,False
+20162017,2016-10-21,Detroit Red Wings,Nashville Predators,False,,,,False
+20162017,2016-10-22,Chicago Blackhawks,Toronto Maple Leafs,False,,,,False
+20162017,2016-10-22,Boston Bruins,Montréal Canadiens,False,,,,False
+20162017,2016-10-22,Detroit Red Wings,San Jose Sharks,False,,,,False
+20162017,2016-10-22,Dallas Stars,Columbus Blue Jackets,False,,,,False
+20162017,2016-10-22,Los Angeles Kings,Vancouver Canucks,False,,,,False
+20162017,2016-10-23,Anaheim Ducks,Vancouver Canucks,False,,,,False
+20162017,2016-10-24,Chicago Blackhawks,Calgary Flames,False,,,,False
+20162017,2016-10-25,Pittsburgh Penguins,Florida Panthers,False,,,,False
+20162017,2016-10-25,Boston Bruins,Minnesota Wild,False,,,,False
+20162017,2016-10-25,Detroit Red Wings,Carolina Hurricanes,False,,,,False
+20162017,2016-10-25,Dallas Stars,Winnipeg Jets,False,,,,False
+20162017,2016-10-25,Los Angeles Kings,Columbus Blue Jackets,False,,,,False
+20162017,2016-10-26,Anaheim Ducks,Nashville Predators,False,,,,False
+20162017,2016-10-27,Pittsburgh Penguins,New York Islanders,False,,,,False
+20162017,2016-10-27,Los Angeles Kings,Nashville Predators,False,,,,False
+20162017,2016-10-28,Anaheim Ducks,Columbus Blue Jackets,False,,,,False
+20162017,2016-10-29,Detroit Red Wings,Boston Bruins,False,,,,False
+20162017,2016-10-29,Minnesota Wild,Dallas Stars,False,,,,False
+20162017,2016-10-29,Arizona Coyotes,Colorado Avalanche,False,,,,False
+20162017,2016-10-30,Detroit Red Wings,Florida Panthers,True,Colton Sceviour,Florida Panthers,3,False
+20162017,2016-10-30,Chicago Blackhawks,Los Angeles Kings,False,,,,False
+20162017,2016-11-01,Columbus Blue Jackets,Dallas Stars,False,,,,False
+20162017,2016-11-01,Minnesota Wild,Buffalo Sabres,False,,,,False
+20162017,2016-11-01,Chicago Blackhawks,Calgary Flames,False,,,,False
+20162017,2016-11-01,Arizona Coyotes,San Jose Sharks,False,,,,False
+20162017,2016-11-01,Los Angeles Kings,Anaheim Ducks,False,,,,False
+20162017,2016-11-02,Anaheim Ducks,Pittsburgh Penguins,False,,,,False
+20162017,2016-11-03,Dallas Stars,St. Louis Blues,False,,,,False
+20162017,2016-11-03,Chicago Blackhawks,Colorado Avalanche,False,,,,False
+20162017,2016-11-03,Arizona Coyotes,Nashville Predators,False,,,,False
+20162017,2016-11-03,Los Angeles Kings,Pittsburgh Penguins,False,,,,False
+20162017,2016-11-04,Columbus Blue Jackets,Montréal Canadiens,False,,,,False
+20162017,2016-11-04,Detroit Red Wings,Winnipeg Jets,False,,,,False
+20162017,2016-11-04,Anaheim Ducks,Arizona Coyotes,False,,,,False
+20162017,2016-11-05,Boston Bruins,New York Rangers,False,,,,False
+20162017,2016-11-05,Dallas Stars,Chicago Blackhawks,False,,,,False
+20162017,2016-11-05,Los Angeles Kings,Calgary Flames,False,,,,False
+20162017,2016-11-06,Detroit Red Wings,Edmonton Oilers,False,,,,True
+20162017,2016-11-06,Chicago Blackhawks,Dallas Stars,False,,,,False
+20162017,2016-11-06,Anaheim Ducks,Calgary Flames,False,,,,True
+20162017,2016-11-07,Boston Bruins,Buffalo Sabres,False,,,,False
+20162017,2016-11-08,Pittsburgh Penguins,Edmonton Oilers,False,,,,False
+20162017,2016-11-09,Columbus Blue Jackets,Anaheim Ducks,False,,,,False
+20162017,2016-11-10,Boston Bruins,Columbus Blue Jackets,False,,,,False
+20162017,2016-11-10,Pittsburgh Penguins,Minnesota Wild,False,,,,False
+20162017,2016-11-10,Detroit Red Wings,Vancouver Canucks,False,,,,True
+20162017,2016-11-10,Arizona Coyotes,Winnipeg Jets,False,,,,False
+20162017,2016-11-11,Chicago Blackhawks,Washington Capitals,False,,,,False
+20162017,2016-11-12,Pittsburgh Penguins,Toronto Maple Leafs,False,,,,False
+20162017,2016-11-12,Columbus Blue Jackets,St. Louis Blues,False,,,,False
+20162017,2016-11-12,Arizona Coyotes,Boston Bruins,False,,,,False
+20162017,2016-11-13,Chicago Blackhawks,Montréal Canadiens,False,,,,False
+20162017,2016-11-15,Columbus Blue Jackets,Washington Capitals,False,,,,False
+20162017,2016-11-15,Detroit Red Wings,Tampa Bay Lightning,False,,,,False
+20162017,2016-11-15,Minnesota Wild,Calgary Flames,False,,,,False
+20162017,2016-11-15,Dallas Stars,New Jersey Devils,False,,,,False
+20162017,2016-11-15,Anaheim Ducks,Edmonton Oilers,False,,,,False
+20162017,2016-11-17,Minnesota Wild,Boston Bruins,False,,,,False
+20162017,2016-11-17,Dallas Stars,Colorado Avalanche,False,,,,False
+20162017,2016-11-17,Anaheim Ducks,New Jersey Devils,False,,,,False
+20162017,2016-11-17,Los Angeles Kings,Edmonton Oilers,False,,,,False
+20162017,2016-11-18,Columbus Blue Jackets,New York Rangers,False,,,,False
+20162017,2016-11-19,Los Angeles Kings,New Jersey Devils,False,,,,False
+20162017,2016-11-19,Dallas Stars,Edmonton Oilers,True,Connor McDavid,Edmonton Oilers,3,False
+20162017,2016-11-19,Boston Bruins,Winnipeg Jets,False,,,,False
+20162017,2016-11-19,Arizona Coyotes,San Jose Sharks,False,,,,False
+20162017,2016-11-19,Minnesota Wild,Colorado Avalanche,False,,,,False
+20162017,2016-11-20,Detroit Red Wings,Calgary Flames,False,,,,False
+20162017,2016-11-20,Anaheim Ducks,Los Angeles Kings,False,,,,False
+20162017,2016-11-21,Pittsburgh Penguins,New York Rangers,False,,,,False
+20162017,2016-11-21,Columbus Blue Jackets,Colorado Avalanche,False,,,,False
+20162017,2016-11-21,Dallas Stars,Minnesota Wild,False,,,,False
+20162017,2016-11-22,Boston Bruins,St. Louis Blues,False,,,,False
+20162017,2016-11-22,Anaheim Ducks,New York Islanders,False,,,,False
+20162017,2016-11-23,Minnesota Wild,Winnipeg Jets,False,,,,True
+20162017,2016-11-23,Columbus Blue Jackets,Calgary Flames,False,,,,False
+20162017,2016-11-23,Arizona Coyotes,Vancouver Canucks,False,,,,False
+20162017,2016-11-23,Los Angeles Kings,New York Islanders,False,,,,False
+20162017,2016-11-25,Anaheim Ducks,Chicago Blackhawks,False,,,,False
+20162017,2016-11-25,Minnesota Wild,Pittsburgh Penguins,False,,,,False
+20162017,2016-11-25,Boston Bruins,Calgary Flames,False,,,,False
+20162017,2016-11-25,Dallas Stars,Vancouver Canucks,False,,,,False
+20162017,2016-11-25,Arizona Coyotes,Edmonton Oilers,False,,,,False
+20162017,2016-11-26,Detroit Red Wings,Montréal Canadiens,False,,,,False
+20162017,2016-11-26,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20162017,2016-11-26,Los Angeles Kings,Chicago Blackhawks,False,,,,False
+20162017,2016-11-27,Boston Bruins,Tampa Bay Lightning,False,,,,False
+20162017,2016-11-29,Columbus Blue Jackets,Tampa Bay Lightning,False,,,,False
+20162017,2016-11-29,Detroit Red Wings,Dallas Stars,False,,,,False
+20162017,2016-11-29,Chicago Blackhawks,Florida Panthers,False,,,,False
+20162017,2016-11-29,Anaheim Ducks,Montréal Canadiens,False,,,,False
+20162017,2016-11-30,Los Angeles Kings,San Jose Sharks,False,,,,False
+20162017,2016-12-01,Boston Bruins,Carolina Hurricanes,False,,,,False
+20162017,2016-12-01,Pittsburgh Penguins,Dallas Stars,False,,,,False
+20162017,2016-12-01,Detroit Red Wings,Florida Panthers,False,,,,False
+20162017,2016-12-01,Chicago Blackhawks,New Jersey Devils,True,Travis Zajac,New Jersey Devils,3,False
+20162017,2016-12-01,Arizona Coyotes,Los Angeles Kings,False,,,,False
+20162017,2016-12-03,Pittsburgh Penguins,Detroit Red Wings,False,,,,False
+20162017,2016-12-03,Arizona Coyotes,Columbus Blue Jackets,False,,,,False
+20162017,2016-12-04,Los Angeles Kings,Montréal Canadiens,False,,,,False
+20162017,2016-12-04,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20162017,2016-12-05,Boston Bruins,Florida Panthers,False,,,,False
+20162017,2016-12-05,Pittsburgh Penguins,Ottawa Senators,True,Bryan Rust,Pittsburgh Penguins,3,False
+20162017,2016-12-05,Columbus Blue Jackets,Arizona Coyotes,False,,,,False
+20162017,2016-12-06,Chicago Blackhawks,Arizona Coyotes,False,,,,False
+20162017,2016-12-06,Dallas Stars,Calgary Flames,False,,,,False
+20162017,2016-12-07,Anaheim Ducks,Carolina Hurricanes,False,,,,False
+20162017,2016-12-08,Boston Bruins,Colorado Avalanche,False,,,,False
+20162017,2016-12-08,Dallas Stars,Nashville Predators,False,,,,False
+20162017,2016-12-08,Arizona Coyotes,Calgary Flames,False,,,,False
+20162017,2016-12-08,Los Angeles Kings,Carolina Hurricanes,False,,,,False
+20162017,2016-12-09,Detroit Red Wings,Columbus Blue Jackets,False,,,,False
+20162017,2016-12-09,Minnesota Wild,Edmonton Oilers,False,,,,False
+20162017,2016-12-09,Chicago Blackhawks,New York Rangers,False,,,,False
+20162017,2016-12-09,Anaheim Ducks,San Jose Sharks,False,,,,False
+20162017,2016-12-10,Los Angeles Kings,Ottawa Senators,False,,,,False
+20162017,2016-12-10,Boston Bruins,Toronto Maple Leafs,False,,,,False
+20162017,2016-12-10,Columbus Blue Jackets,New York Islanders,False,,,,False
+20162017,2016-12-10,Arizona Coyotes,Nashville Predators,False,,,,False
+20162017,2016-12-11,Anaheim Ducks,Ottawa Senators,False,,,,False
+20162017,2016-12-11,Detroit Red Wings,Philadelphia Flyers,False,,,,False
+20162017,2016-12-11,Minnesota Wild,St. Louis Blues,False,,,,False
+20162017,2016-12-11,Chicago Blackhawks,Dallas Stars,False,,,,False
+20162017,2016-12-12,Pittsburgh Penguins,Arizona Coyotes,False,,,,False
+20162017,2016-12-13,Detroit Red Wings,Arizona Coyotes,False,,,,False
+20162017,2016-12-13,Minnesota Wild,Florida Panthers,False,,,,False
+20162017,2016-12-13,Dallas Stars,Anaheim Ducks,False,,,,False
+20162017,2016-12-14,Pittsburgh Penguins,Boston Bruins,False,,,,False
+20162017,2016-12-15,Boston Bruins,Anaheim Ducks,False,,,,False
+20162017,2016-12-15,Detroit Red Wings,Los Angeles Kings,False,,,,False
+20162017,2016-12-15,Dallas Stars,New York Rangers,False,,,,False
+20162017,2016-12-16,Pittsburgh Penguins,Los Angeles Kings,False,,,,False
+20162017,2016-12-17,Dallas Stars,Philadelphia Flyers,False,,,,False
+20162017,2016-12-17,Minnesota Wild,Arizona Coyotes,False,,,,False
+20162017,2016-12-17,Detroit Red Wings,Anaheim Ducks,True,Tomas Tatar,Detroit Red Wings,3,False
+20162017,2016-12-18,Boston Bruins,Los Angeles Kings,False,,,,False
+20162017,2016-12-18,Chicago Blackhawks,San Jose Sharks,False,,,,False
+20162017,2016-12-19,Arizona Coyotes,Calgary Flames,False,,,,False
+20162017,2016-12-20,Boston Bruins,New York Islanders,False,,,,False
+20162017,2016-12-20,Pittsburgh Penguins,New York Rangers,False,,,,False
+20162017,2016-12-20,Columbus Blue Jackets,Los Angeles Kings,False,,,,False
+20162017,2016-12-20,Minnesota Wild,Colorado Avalanche,False,,,,False
+20162017,2016-12-20,Chicago Blackhawks,Ottawa Senators,False,,,,False
+20162017,2016-12-20,Dallas Stars,St. Louis Blues,False,,,,False
+20162017,2016-12-21,Arizona Coyotes,Edmonton Oilers,False,,,,False
+20162017,2016-12-22,Columbus Blue Jackets,Pittsburgh Penguins,True,Scott Hartnell,Columbus Blue Jackets,3,False
+20162017,2016-12-23,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20162017,2016-12-23,Columbus Blue Jackets,Montréal Canadiens,False,,,,False
+20162017,2016-12-23,Chicago Blackhawks,Colorado Avalanche,False,,,,False
+20162017,2016-12-23,Dallas Stars,Los Angeles Kings,False,,,,False
+20162017,2016-12-23,Arizona Coyotes,Toronto Maple Leafs,False,,,,False
+20162017,2016-12-27,Columbus Blue Jackets,Boston Bruins,False,,,,False
+20162017,2016-12-27,Detroit Red Wings,Buffalo Sabres,False,,,,True
+20162017,2016-12-27,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20162017,2016-12-27,Arizona Coyotes,Dallas Stars,False,,,,False
+20162017,2016-12-27,Anaheim Ducks,San Jose Sharks,False,,,,False
+20162017,2016-12-28,Pittsburgh Penguins,Carolina Hurricanes,False,,,,False
+20162017,2016-12-29,Minnesota Wild,New York Islanders,False,,,,False
+20162017,2016-12-29,Dallas Stars,Colorado Avalanche,False,,,,False
+20162017,2016-12-29,Arizona Coyotes,New York Rangers,True,Matt Puempel,New York Rangers,3,False
+20162017,2016-12-31,Boston Bruins,Buffalo Sabres,False,,,,False
+20162017,2016-12-31,Minnesota Wild,Columbus Blue Jackets,False,,,,False
+20162017,2016-12-31,Pittsburgh Penguins,Montréal Canadiens,False,,,,False
+20162017,2016-12-31,Dallas Stars,Florida Panthers,False,,,,False
+20162017,2016-12-31,Los Angeles Kings,San Jose Sharks,False,,,,False
+20162017,2017-01-01,Anaheim Ducks,Philadelphia Flyers,True,Ryan Kesler,Anaheim Ducks,3,False
+20162017,2017-01-03,Columbus Blue Jackets,Edmonton Oilers,False,,,,False
+20162017,2017-01-04,Dallas Stars,Montréal Canadiens,False,,,,False
+20162017,2017-01-04,Anaheim Ducks,Detroit Red Wings,False,,,,False
+20162017,2017-01-05,Boston Bruins,Edmonton Oilers,True,Patrick Maroon,Edmonton Oilers,3,False
+20162017,2017-01-05,Chicago Blackhawks,Buffalo Sabres,False,,,,False
+20162017,2017-01-05,Los Angeles Kings,Detroit Red Wings,False,,,,False
+20162017,2017-01-06,Chicago Blackhawks,Carolina Hurricanes,False,,,,False
+20162017,2017-01-06,Anaheim Ducks,Arizona Coyotes,False,,,,False
+20162017,2017-01-07,Los Angeles Kings,Minnesota Wild,False,,,,False
+20162017,2017-01-07,Columbus Blue Jackets,New York Rangers,True,Michael Grabner,New York Rangers,3,False
+20162017,2017-01-07,Arizona Coyotes,New York Islanders,False,,,,False
+20162017,2017-01-08,Pittsburgh Penguins,Tampa Bay Lightning,False,,,,False
+20162017,2017-01-08,Columbus Blue Jackets,Philadelphia Flyers,False,,,,False
+20162017,2017-01-08,Chicago Blackhawks,Nashville Predators,True,Ryan Hartman,Chicago Blackhawks,3,False
+20162017,2017-01-08,Anaheim Ducks,Minnesota Wild,False,,,,False
+20162017,2017-01-09,Los Angeles Kings,Dallas Stars,False,,,,False
+20162017,2017-01-10,Chicago Blackhawks,Detroit Red Wings,False,,,,True
+20162017,2017-01-10,Anaheim Ducks,Dallas Stars,False,,,,False
+20162017,2017-01-12,Minnesota Wild,Montréal Canadiens,False,,,,False
+20162017,2017-01-12,Dallas Stars,Detroit Red Wings,False,,,,False
+20162017,2017-01-12,Los Angeles Kings,St. Louis Blues,False,,,,False
+20162017,2017-01-13,Arizona Coyotes,Winnipeg Jets,False,,,,False
+20162017,2017-01-14,Boston Bruins,Philadelphia Flyers,False,,,,False
+20162017,2017-01-14,Detroit Red Wings,Pittsburgh Penguins,False,,,,False
+20162017,2017-01-14,Arizona Coyotes,Anaheim Ducks,False,,,,False
+20162017,2017-01-14,Dallas Stars,Minnesota Wild,False,,,,False
+20162017,2017-01-14,Los Angeles Kings,Winnipeg Jets,False,,,,False
+20162017,2017-01-15,Chicago Blackhawks,Minnesota Wild,False,,,,False
+20162017,2017-01-15,Anaheim Ducks,St. Louis Blues,False,,,,False
+20162017,2017-01-16,Boston Bruins,New York Islanders,False,,,,False
+20162017,2017-01-16,Detroit Red Wings,Montréal Canadiens,False,,,,False
+20162017,2017-01-16,Los Angeles Kings,Tampa Bay Lightning,False,,,,False
+20162017,2017-01-16,Pittsburgh Penguins,Washington Capitals,True,Evgeni Malkin,Pittsburgh Penguins,3,False
+20162017,2017-01-17,Columbus Blue Jackets,Carolina Hurricanes,False,,,,False
+20162017,2017-01-17,Minnesota Wild,New Jersey Devils,False,,,,False
+20162017,2017-01-17,Anaheim Ducks,Tampa Bay Lightning,False,,,,False
+20162017,2017-01-18,Detroit Red Wings,Boston Bruins,False,,,,False
+20162017,2017-01-18,Los Angeles Kings,San Jose Sharks,False,,,,False
+20162017,2017-01-19,Columbus Blue Jackets,Ottawa Senators,False,,,,False
+20162017,2017-01-19,Minnesota Wild,Arizona Coyotes,False,,,,False
+20162017,2017-01-19,Anaheim Ducks,Colorado Avalanche,False,,,,False
+20162017,2017-01-20,Boston Bruins,Chicago Blackhawks,False,,,,False
+20162017,2017-01-21,Columbus Blue Jackets,Carolina Hurricanes,False,,,,False
+20162017,2017-01-21,Arizona Coyotes,Tampa Bay Lightning,False,,,,False
+20162017,2017-01-21,Dallas Stars,Washington Capitals,False,,,,False
+20162017,2017-01-21,Minnesota Wild,Anaheim Ducks,False,,,,False
+20162017,2017-01-22,Detroit Red Wings,New York Rangers,False,,,,False
+20162017,2017-01-22,Pittsburgh Penguins,Boston Bruins,False,,,,False
+20162017,2017-01-22,Chicago Blackhawks,Vancouver Canucks,False,,,,False
+20162017,2017-01-22,Minnesota Wild,Nashville Predators,False,,,,False
+20162017,2017-01-23,Arizona Coyotes,Florida Panthers,False,,,,False
+20162017,2017-01-24,Boston Bruins,Detroit Red Wings,False,,,,False
+20162017,2017-01-24,Pittsburgh Penguins,St. Louis Blues,False,,,,True
+20162017,2017-01-24,Chicago Blackhawks,Tampa Bay Lightning,False,,,,True
+20162017,2017-01-24,Dallas Stars,Minnesota Wild,False,,,,False
+20162017,2017-01-25,Detroit Red Wings,Toronto Maple Leafs,False,,,,False
+20162017,2017-01-25,Anaheim Ducks,Edmonton Oilers,False,,,,False
+20162017,2017-01-26,Boston Bruins,Pittsburgh Penguins,False,,,,False
+20162017,2017-01-26,Minnesota Wild,St. Louis Blues,False,,,,False
+20162017,2017-01-26,Chicago Blackhawks,Winnipeg Jets,False,,,,False
+20162017,2017-01-26,Dallas Stars,Buffalo Sabres,False,,,,False
+20162017,2017-01-26,Arizona Coyotes,Vancouver Canucks,False,,,,False
+20162017,2017-01-31,Pittsburgh Penguins,Nashville Predators,False,,,,False
+20162017,2017-01-31,Detroit Red Wings,New Jersey Devils,False,,,,False
+20162017,2017-01-31,Dallas Stars,Toronto Maple Leafs,False,,,,False
+20162017,2017-01-31,Arizona Coyotes,Los Angeles Kings,False,,,,False
+20162017,2017-01-31,Anaheim Ducks,Colorado Avalanche,False,,,,False
+20162017,2017-02-01,Los Angeles Kings,Colorado Avalanche,False,,,,False
+20162017,2017-02-02,Dallas Stars,Winnipeg Jets,False,,,,False
+20162017,2017-02-02,Arizona Coyotes,Chicago Blackhawks,False,,,,False
+20162017,2017-02-03,Pittsburgh Penguins,Columbus Blue Jackets,False,,,,False
+20162017,2017-02-03,Detroit Red Wings,New York Islanders,False,,,,False
+20162017,2017-02-04,Boston Bruins,Toronto Maple Leafs,True,William Nylander,Toronto Maple Leafs,3,False
+20162017,2017-02-04,Columbus Blue Jackets,New Jersey Devils,False,,,,True
+20162017,2017-02-04,Dallas Stars,Chicago Blackhawks,False,,,,False
+20162017,2017-02-07,Pittsburgh Penguins,Calgary Flames,False,,,,False
+20162017,2017-02-07,Detroit Red Wings,Columbus Blue Jackets,False,,,,False
+20162017,2017-02-08,Minnesota Wild,Chicago Blackhawks,False,,,,False
+20162017,2017-02-09,Boston Bruins,San Jose Sharks,False,,,,False
+20162017,2017-02-09,Columbus Blue Jackets,Vancouver Canucks,False,,,,False
+20162017,2017-02-09,Arizona Coyotes,Montréal Canadiens,False,,,,False
+20162017,2017-02-10,Minnesota Wild,Tampa Bay Lightning,False,,,,False
+20162017,2017-02-11,Boston Bruins,Vancouver Canucks,False,,,,False
+20162017,2017-02-11,Dallas Stars,Carolina Hurricanes,False,,,,False
+20162017,2017-02-11,Columbus Blue Jackets,Detroit Red Wings,False,,,,False
+20162017,2017-02-11,Arizona Coyotes,Pittsburgh Penguins,False,,,,False
+20162017,2017-02-12,Minnesota Wild,Detroit Red Wings,False,,,,False
+20162017,2017-02-12,Boston Bruins,Montréal Canadiens,False,,,,False
+20162017,2017-02-13,Columbus Blue Jackets,New York Rangers,False,,,,False
+20162017,2017-02-14,Pittsburgh Penguins,Vancouver Canucks,False,,,,False
+20162017,2017-02-14,Minnesota Wild,Anaheim Ducks,False,,,,False
+20162017,2017-02-15,Columbus Blue Jackets,Toronto Maple Leafs,False,,,,False
+20162017,2017-02-15,Detroit Red Wings,St. Louis Blues,False,,,,False
+20162017,2017-02-16,Pittsburgh Penguins,Winnipeg Jets,False,,,,False
+20162017,2017-02-16,Minnesota Wild,Dallas Stars,False,,,,False
+20162017,2017-02-16,Los Angeles Kings,Arizona Coyotes,False,,,,False
+20162017,2017-02-17,Columbus Blue Jackets,Pittsburgh Penguins,False,,,,False
+20162017,2017-02-17,Anaheim Ducks,Florida Panthers,False,,,,False
+20162017,2017-02-18,Detroit Red Wings,Washington Capitals,False,,,,False
+20162017,2017-02-18,Chicago Blackhawks,Edmonton Oilers,False,,,,False
+20162017,2017-02-18,Arizona Coyotes,San Jose Sharks,False,,,,False
+20162017,2017-02-18,Dallas Stars,Tampa Bay Lightning,True,Antoine Roussel,Dallas Stars,3,False
+20162017,2017-02-18,Minnesota Wild,Nashville Predators,False,,,,False
+20162017,2017-02-18,Los Angeles Kings,Florida Panthers,False,,,,False
+20162017,2017-02-19,Pittsburgh Penguins,Detroit Red Wings,False,,,,False
+20162017,2017-02-19,Columbus Blue Jackets,Nashville Predators,False,,,,False
+20162017,2017-02-19,Anaheim Ducks,Los Angeles Kings,False,,,,False
+20162017,2017-02-20,Arizona Coyotes,Anaheim Ducks,False,,,,False
+20162017,2017-02-21,Detroit Red Wings,New York Islanders,False,,,,False
+20162017,2017-02-21,Minnesota Wild,Chicago Blackhawks,True,Jonathan Toews,Chicago Blackhawks,3,False
+20162017,2017-02-22,Anaheim Ducks,Boston Bruins,False,,,,False
+20162017,2017-02-23,Chicago Blackhawks,Arizona Coyotes,True,Patrick Kane,Chicago Blackhawks,3,False
+20162017,2017-02-23,Los Angeles Kings,Boston Bruins,False,,,,False
+20162017,2017-02-24,Dallas Stars,Arizona Coyotes,False,,,,False
+20162017,2017-02-25,Los Angeles Kings,Anaheim Ducks,False,,,,False
+20162017,2017-02-25,Columbus Blue Jackets,New York Islanders,False,,,,False
+20162017,2017-02-25,Pittsburgh Penguins,Philadelphia Flyers,False,,,,False
+20162017,2017-02-26,Dallas Stars,Boston Bruins,False,,,,False
+20162017,2017-02-26,Chicago Blackhawks,St. Louis Blues,False,,,,False
+20162017,2017-02-26,Arizona Coyotes,Buffalo Sabres,False,,,,False
+20162017,2017-02-27,Minnesota Wild,Los Angeles Kings,False,,,,False
+20162017,2017-02-28,Boston Bruins,Arizona Coyotes,False,,,,False
+20162017,2017-02-28,Dallas Stars,Pittsburgh Penguins,False,,,,False
+20162017,2017-03-01,Chicago Blackhawks,Pittsburgh Penguins,True,Patrick Kane,Chicago Blackhawks,3,True
+20162017,2017-03-02,Boston Bruins,New York Rangers,False,,,,False
+20162017,2017-03-02,Columbus Blue Jackets,Minnesota Wild,False,,,,False
+20162017,2017-03-02,Dallas Stars,New York Islanders,False,,,,False
+20162017,2017-03-02,Los Angeles Kings,Toronto Maple Leafs,False,,,,False
+20162017,2017-03-03,Pittsburgh Penguins,Tampa Bay Lightning,False,,,,False
+20162017,2017-03-03,Chicago Blackhawks,New York Islanders,False,,,,False
+20162017,2017-03-03,Anaheim Ducks,Toronto Maple Leafs,False,,,,False
+20162017,2017-03-04,Boston Bruins,New Jersey Devils,False,,,,False
+20162017,2017-03-04,Los Angeles Kings,Vancouver Canucks,False,,,,False
+20162017,2017-03-05,Pittsburgh Penguins,Buffalo Sabres,False,,,,False
+20162017,2017-03-05,Minnesota Wild,San Jose Sharks,False,,,,False
+20162017,2017-03-05,Anaheim Ducks,Vancouver Canucks,False,,,,False
+20162017,2017-03-05,Arizona Coyotes,Carolina Hurricanes,False,,,,False
+20162017,2017-03-07,Columbus Blue Jackets,New Jersey Devils,False,,,,False
+20162017,2017-03-07,Minnesota Wild,St. Louis Blues,False,,,,False
+20162017,2017-03-07,Anaheim Ducks,Nashville Predators,False,,,,False
+20162017,2017-03-08,Dallas Stars,Ottawa Senators,False,,,,False
+20162017,2017-03-08,Boston Bruins,Detroit Red Wings,False,,,,False
+20162017,2017-03-09,Chicago Blackhawks,Anaheim Ducks,False,,,,False
+20162017,2017-03-09,Arizona Coyotes,Ottawa Senators,False,,,,False
+20162017,2017-03-09,Los Angeles Kings,Nashville Predators,False,,,,False
+20162017,2017-03-10,Columbus Blue Jackets,Buffalo Sabres,False,,,,False
+20162017,2017-03-10,Detroit Red Wings,Chicago Blackhawks,False,,,,False
+20162017,2017-03-11,Boston Bruins,Philadelphia Flyers,False,,,,False
+20162017,2017-03-11,Arizona Coyotes,New Jersey Devils,False,,,,False
+20162017,2017-03-11,Los Angeles Kings,Washington Capitals,False,,,,True
+20162017,2017-03-12,Chicago Blackhawks,Minnesota Wild,False,,,,True
+20162017,2017-03-12,Detroit Red Wings,New York Rangers,False,,,,False
+20162017,2017-03-12,Anaheim Ducks,Washington Capitals,False,,,,False
+20162017,2017-03-13,Arizona Coyotes,Colorado Avalanche,False,,,,False
+20162017,2017-03-13,Los Angeles Kings,St. Louis Blues,False,,,,False
+20162017,2017-03-14,Los Angeles Kings,Arizona Coyotes,False,,,,False
+20162017,2017-03-15,Anaheim Ducks,St. Louis Blues,False,,,,False
+20162017,2017-03-16,Columbus Blue Jackets,Florida Panthers,False,,,,False
+20162017,2017-03-16,Arizona Coyotes,Detroit Red Wings,False,,,,True
+20162017,2017-03-16,Los Angeles Kings,Buffalo Sabres,False,,,,False
+20162017,2017-03-17,Pittsburgh Penguins,New Jersey Devils,False,,,,False
+20162017,2017-03-17,Anaheim Ducks,Buffalo Sabres,False,,,,False
+20162017,2017-03-18,Minnesota Wild,New York Rangers,False,,,,False
+20162017,2017-03-18,Arizona Coyotes,St. Louis Blues,False,,,,False
+20162017,2017-03-18,Detroit Red Wings,Colorado Avalanche,False,,,,False
